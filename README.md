@@ -1,2 +1,5 @@
-# full-Laravel-project
-full Laravel project
+# Real-Time Product Display with Free API
+-> Laravel
+-> Pusher
+-> Javascript
+-> Free Api
